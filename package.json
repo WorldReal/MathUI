@@ -1,0 +1,22 @@
+{
+  "name": "mathui",
+  "version": "1.0.0",
+  "description": "math utils and Gui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WorldReal/MathUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WorldReal/MathUI/issues"
+  },
+  "homepage": "https://github.com/WorldReal/MathUI#readme",
+  "dependencies": {
+    "@babylonjs/core": "^5.0.0-rc.13"
+  }
+}

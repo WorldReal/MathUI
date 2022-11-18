@@ -1,0 +1,25 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@babylonjs/core': ^5.0.0-rc.13
+  babylonjs: ^4.2.2
+
+dependencies:
+  '@babylonjs/core': 5.0.0-rc.13
+  babylonjs: 4.2.2
+
+packages:
+
+  /@babylonjs/core/5.0.0-rc.13:
+    resolution: {integrity: sha512-2Ll3jI0240UiywtDcxoicD8Sy7ShscBL8/v6iIP9ImQiZ7ztxrUaxdqL4o18ZnX3yhQE6PzcmITXbiO71zbwzg==}
+    dependencies:
+      tslib: 2.3.1
+    dev: false
+
+  /babylonjs/4.2.2:
+    resolution: {integrity: sha512-p7mTi6+nLuWJTLbwxEJxLOh/QMHMV2KA0bviEoQSK5VtsAq1F0JghoOZYRs4aEqAZF/deFPWvMQk1vbXJ+4eEA==}
+    dev: false
+
+  /tslib/2.3.1:
+    resolution: {integrity: sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==}
+    dev: false

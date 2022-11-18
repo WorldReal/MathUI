@@ -1,0 +1,1 @@
+首先下载Chrome Canary版，然后chrome://flags/#enable-unsafe-webgpu开启WebGPU，然后点击webgpu_sample就可以看到运行成功，下面是我运行成功的截图。
